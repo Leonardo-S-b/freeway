@@ -129,4 +129,5 @@ Compare os tres experimentos:
 - Mutacao intermediaria busca equilibrar preservacao e diversidade.
 - Mutacao muito alta aumenta a diversidade, mas pode destruir solucoes boas.
 
-Para defender o trabalho, use o `fitness.csv`, o `fitness.png` e o `baseline.txt` como evidencias.
+Para defesa `fitness.csv`, o `fitness.png` e o `baseline.txt` como evidencias.
+
