@@ -1,0 +1,10 @@
+﻿Melhor agente geral do resultado atual
+Experimento: B-m4-d1
+Geracao: 4
+Modo: 4
+Dificuldade: 1
+Fitness bruto: 23.00
+Peso da fase: 2.10
+Fitness ponderado: 48.30
+
+Observacao: o melhor bruto foi B-m0-d0, geracao 2, com 28.00 pontos. Como fases diferentes nao tem o mesmo peso, o melhor geral ponderado foi B-m4-d1.
